@@ -114,7 +114,7 @@ export const Navbar = React.forwardRef<HTMLElement, NavbarProps>(
 
           <Link href={"/"}>          
             <Image
-            src="/assets/logo.jpg"
+            src="/assets/Logo.jpg"
             alt="Logo"
             width={50}
             height={50}
